@@ -35,12 +35,12 @@ https://www.saucedemo.com
 ## 📸 API Test Screenshots
 
 ### 🟦 1) Screenshot – Test Result 1
-![Test Result 1](TestResult/TestR_1.png)
+![Test Result 1](Screenshots/TestR_1.png)
 
 ---
 
 ### 🟩 2) Screenshot – Test Result 2
-![Test Result 2](TestResult/TestR_2.png)
+![Test Result 2](Screenshots/TestR_2.png)
 
 ---
 ## 🔌 API Services (Postman Collection)
