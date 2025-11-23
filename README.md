@@ -32,12 +32,15 @@ https://www.saucedemo.com
 
 ---
 
-## 🔹 Screenshots
-(نمونه‌ها را قرار بده)
+## 📸 API Test Screenshots
 
-![Login Fail](Screenshots/login_fail.png)
-![Add To Cart](Screenshots/add_to_cart.png)
-![Checkout Success](Screenshots/checkout_success.png)
+### 🟦 1) Screenshot – Test Result 1
+![Test Result 1](TestResult/TestR_1.png)
+
+---
+
+### 🟩 2) Screenshot – Test Result 2
+![Test Result 2](TestResult/TestR_2.png)
 
 ---
 ## 🔌 API Services (Postman Collection)
