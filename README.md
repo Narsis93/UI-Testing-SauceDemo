@@ -42,11 +42,23 @@ https://www.saucedemo.com
 ---
 ## 🔌 API Services (Postman Collection)
 
-This repository contains the full API Postman Collection:
+The **Services** folder contains the full Postman Collection used for API testing.
 
-➡️ [Download Postman Collection](Services/FakeStoreAPI_Collection.json)
+➡️ **[Download Postman Collection](Services/my_api_collection.json)**
 
-You can import this file into Postman and test all endpoints.
+After importing this JSON file into Postman, you will be able to test all API endpoints included in this project.
+
+This collection contains:
+
+- GET all items
+- GET item by ID
+- POST create new item
+- PUT update existing item
+- DELETE item
+- Negative test scenarios
+
+You can import the file in Postman through:
+**Postman → Import → Select File → my_api_collection.json**
 
 ## 🔹 Tester
 Created by **[narsis]**
