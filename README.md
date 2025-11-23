@@ -40,6 +40,13 @@ https://www.saucedemo.com
 ![Checkout Success](Screenshots/checkout_success.png)
 
 ---
+## 🔌 API Services (Postman Collection)
+
+This repository contains the full API Postman Collection:
+
+➡️ [Download Postman Collection](Services/FakeStoreAPI_Collection.json)
+
+You can import this file into Postman and test all endpoints.
 
 ## 🔹 Tester
 Created by **[narsis]**
